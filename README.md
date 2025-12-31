@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Info -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+👋;I'm+Parvez+Hasan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi,+I'm+Parvez+Hasan+👋;I'm+MERN+Stack+Developer" />
 </p>
 
 <p align="center">
