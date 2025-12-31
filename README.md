@@ -1,8 +1,7 @@
 ## Hello, Nice to see you.👋
 
 <p align="center">
-  <img src="<img width="1200" height="628" alt="Blue and White Modern Website Creation Facebook Ad" src="https://github.com/user-attachments/assets/3080dcca-b027-425b-b016-e79c54774f30" />
-" width="100%" height="400px" style="border-radius: 12px;" />
+  <img src="<img width="1200" height="" width="100%" height="400px" style="border-radius: 12px;" />
 </p>
 
 <!--
