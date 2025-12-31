@@ -1,5 +1,10 @@
 ## Hello, Nice to see you.👋
 
+<!-- Animated Typing Info -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+👋;I'm+Parvez+Hasan" />
+</p>
+
 <p align="center">
   <img src="Blue and White Modern Website Creation Facebook Ad.png" alt="Banner" width="100%" />
 </p>
